@@ -1,0 +1,10 @@
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\bin\Debug\Claro.Pagos.DAC.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\bin\Debug\Claro.Pagos.DAC.pdb
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\bin\Debug\Claro.Pagos.BE.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\bin\Debug\Claro.Pagos.BE.pdb
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\obj\Debug\Claro.Pagos.DAC.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\obj\Debug\Claro.Pagos.DAC.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\obj\Debug\Claro.Pagos.DAC.csproj.CopyComplete
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\obj\Debug\Claro.Pagos.DAC.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.DAC\obj\Debug\Claro.Pagos.DAC.pdb

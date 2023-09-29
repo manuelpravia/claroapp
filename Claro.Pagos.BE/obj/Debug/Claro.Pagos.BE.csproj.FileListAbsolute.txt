@@ -1,0 +1,8 @@
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\bin\Debug\Claro.Pagos.BE.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\bin\Debug\Claro.Pagos.BE.pdb
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\obj\Debug\Claro.Pagos.BE.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\obj\Debug\Claro.Pagos.BE.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\obj\Debug\Claro.Pagos.BE.csproj.CopyComplete
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\obj\Debug\Claro.Pagos.BE.dll
+C:\Users\manue\source\repos\Claro.Pagos\Claro.Pagos.BE\obj\Debug\Claro.Pagos.BE.pdb
